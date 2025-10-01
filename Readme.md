@@ -1,6 +1,6 @@
 # Competing GPUs: Connect 4
 
-This project is an implementation of a Connect 4 game where two simulated GPUs compete against each other. It's designed to fulfill the requirements of the "Competing GPUs" peer-graded assignment.
+This project is an implementation of a Connect 4 game where two simulated GPUs compete against each other.
 
 The game runs in the command line and demonstrates two different AI strategies implemented in CUDA C++.
 
